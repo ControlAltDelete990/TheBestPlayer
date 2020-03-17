@@ -1,4 +1,4 @@
-## TheBestPlayer - Unlimited Video & Music Player
+## TheBestPlayer - Unlimited Video & Music Player iOS App
 
 Best Features
 
@@ -14,6 +14,8 @@ Best Features
 <img src="sc2.jpg" alt="app image" class="inline"/>
 <img src="sc4.jpg" alt="app image" class="inline"/>
 
+
+<b>TheBestPlayer is available to download on the iOS AppStore Right Now.!! Enjoy !!!!</b>
 
 If you have any questions regarding the app, feel free to email me on: 
 
