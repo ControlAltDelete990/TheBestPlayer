@@ -1,6 +1,6 @@
-## TheBestPlayer
+## TheBestPlayer - Unlimited Video & Music Player
 
-THEBESTPLAYER'S FEATURES
+Best Features
 
 •Stream Music Online
 •Fully featured in-app music player
@@ -11,8 +11,8 @@ THEBESTPLAYER'S FEATURES
 •Special playlist for designed to work perfectly in low network
 •No cookies, no history - feel good and safe using TheBestPlayer & Have a great time. :)
 
-<img src="sc2.png" alt="app image" class="inline"/>
-
+<img src="sc2.jpg" alt="app image" class="inline"/>
+<img src="sc4.jpg" alt="app image" class="inline"/>
 
 
 If you have any questions regarding the app, feel free to email me on: 
