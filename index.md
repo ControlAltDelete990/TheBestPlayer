@@ -2,7 +2,7 @@
 
 Best Features
 
-*Stream Music Online
+*Stream Music Online<br>
 *Fully featured in-app music player
 *Playback of music in background
 *Super Fast video player
