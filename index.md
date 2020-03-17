@@ -1,10 +1,18 @@
 ## TheBestPlayer
 
-VideoSwitch is the fastest way to create beautiful playlist for your music needs. Many apps have alot of distracting processes with the app. When all you really want is a good video player with a no frills service.
+THEBESTPLAYER'S FEATURES
 
-<img src="Simulator Screen Shot - iPhone XR - 2020-02-10 at 04.13.48.png" alt="app image" class="inline"/>
+•Stream Music Online
+•Fully featured in-app music player
+•Playback of music in background
+•Super Fast video player
+•Super quick and intuitive search so you can locate your favourite videos
+•Full-screen video watching
+•Special playlist for designed to work perfectly in low network
+•No cookies, no history - feel good and safe using TheBestPlayer & Have a great time. :)
 
-The application is fast and reliable. It was tested by my friends and family who really like it, so I hope you do aswell :)
+<img src="sc2.png" alt="app image" class="inline"/>
+
 
 
 If you have any questions regarding the app, feel free to email me on: 
