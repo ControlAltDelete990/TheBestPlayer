@@ -3,13 +3,13 @@
 Best Features
 
 *Stream Music Online<br>
-*Fully featured in-app music player
-*Playback of music in background
-*Super Fast video player
-*Super quick and intuitive search so you can locate your favourite videos
-*Full-screen video watching
-*Special playlist for designed to work perfectly in low network
-*No cookies, no history - feel good and safe using TheBestPlayer & Have a great time. :)
+*Fully featured in-app music player<br>
+*Playback of music in background<br>
+*Super Fast video player<br>
+*Super quick and intuitive search so you can locate your favourite videos<br>
+*Full-screen video watching<br>
+*Special playlist for designed to work perfectly in low network<br>
+*No cookies, no history - feel good and safe using TheBestPlayer & Have a great time. :)<br>
 
 <img src="sc2.jpg" alt="app image" class="inline"/>
 <img src="sc4.jpg" alt="app image" class="inline"/>
